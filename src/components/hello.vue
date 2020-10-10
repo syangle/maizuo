@@ -1,0 +1,10 @@
+<template>
+    <div>
+        <button>我是hello.vue的组件</button>
+    </div>
+</template>
+<style>
+    p{
+        color:green
+    }
+</style>
